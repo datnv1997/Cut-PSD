@@ -34,7 +34,7 @@
 p
 {
 
-    float: left;
+
     margin-left:10px;
     font-family: 'PT Sans', sans-serif;
     font-size: 22pt;
@@ -93,4 +93,116 @@ a:hover
 }
 .active, .dot:hover {
     background-color: #717171;
+}
+.div2
+{
+    border-style: solid;
+    width: 100%;
+    height:774px;
+}
+.feature
+{
+    border-style: solid;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:100px;
+    width:1000px;
+    height:552px;
+}
+.feature .content
+{
+
+
+
+    width:100%;
+    height: 130px;
+
+}
+.feature .content p
+{
+
+    letter-spacing: -0.8px;
+    font-size: 32pt;
+
+
+
+}
+
+.feature .icon
+{
+    margin-top: 80px;
+    border-style: solid;
+    width:100%;
+    height:340px;
+
+}
+.row1
+{
+    border-style: solid;
+    width: 100%;
+    height: 45%;
+    margin-bottom: 35px;
+}
+.phone,.layer,.font
+{
+    border-style: solid;
+    width: 33.333333333333%;
+    height: 100%;
+    float: left;
+
+}
+.phone img
+{
+    float: left;
+    display: inline-block;
+    border-style: solid;
+    width:23%;
+    height: 55%;
+
+}
+.layer img
+{
+    float: left;
+    display: inline-block;
+    border-style: solid;
+    width:23%;
+    height: 55%;
+}
+.font img
+{
+    float: left;
+    display: inline-block;
+    border-style: solid;
+    width:23%;
+    height: 55%;
+}
+.phone .content
+{
+    float: left;
+    border-style: solid;
+    width: 77%;
+    height: 100%;
+    padding-left: 0;
+}
+.layer .content
+{
+    float: left;
+    border-style: solid;
+    width: 77%;
+    height: 100%;
+    padding-left: 0;
+}
+
+
+
+
+
+
+.row2
+{
+
+    border-style: solid;
+    width: 100%;
+    height: 45%;
 }
